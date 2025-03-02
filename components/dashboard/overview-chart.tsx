@@ -14,6 +14,7 @@ import {
   Pie, 
   PieChart, 
   ResponsiveContainer, 
+  Sector, 
   Tooltip, 
   XAxis, 
   YAxis 
